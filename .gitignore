@@ -1,0 +1,4 @@
+bin/
+obj/
+estado-estoque.json
+estado-estoque.json.tmp
